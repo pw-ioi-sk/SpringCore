@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: nov23
+student:
+  name: swap
+  school: SOT
+  code: NOI
+email:
+  student:
+    id: swap@pw.live
+    name: swap noi
+server:
+  port: 8080
+  servlet:
+    context-path: /myapp
+
+
+# name: swap
+#student:
+#  id: 21
+#  name:
+#    first: swap
+#    middle:
+#    last: noi
+#  contact:
+#    - 1234567
+#    - 1234568
+#    - 2345678

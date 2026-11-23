@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: nov23
+student:
+  name: swap
+  school: SOT
+  code: NOI
+email:
+  student:
+    id: swap@pw.live
+    name: swap noi
